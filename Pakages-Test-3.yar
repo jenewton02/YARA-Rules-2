@@ -2,7 +2,7 @@
 
 import "hash" 
 
-rule Pakages-Test-1 {
+rule Pakages_Test_3 {
 
     meta:
         description = "Ubuntu 22.04 Download"
